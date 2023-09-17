@@ -12,6 +12,18 @@ MISAR is our attempt to bridge this gap. We introduce an avant-garde methodology
 
 [**🎥 Check out our System Demo!**](https://drive.google.com/file/d/1X09IJBmqgtif3Bts8WHOw4bE3OklYoaX/view?usp=sharing)
 
+
+## Citation
+https://arxiv.org/pdf/??.pdf
+```
+@article{bi2023misar,
+  title={MISAR: A Multimodal Instructional System with Augmented Reality},
+  author={Bi, Jing and Nguyen, Nguyen and Vosoughi, Ali and Xu, Chenliang},
+  journal={ICCV},
+  year={2023}
+}
+```
+
 ## 📜 License
 This project is licensed under the The MIT License (MIT).
 
