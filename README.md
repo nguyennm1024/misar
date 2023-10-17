@@ -36,5 +36,5 @@ This project is licensed under the The MIT License (MIT).
 
 ---
 
-**For any queries, feel free to raise an issue or contact us directly via [email](your_email_address).**
+**For any queries, feel free to raise an issue or contact us directly via [email](nguyen.nguyen@rochester.edu).**
 
