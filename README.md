@@ -19,7 +19,7 @@ https://arxiv.org/pdf/??.pdf
 @article{bi2023misar,
   title={MISAR: A Multimodal Instructional System with Augmented Reality},
   author={Bi, Jing and Nguyen, Nguyen and Vosoughi, Ali and Xu, Chenliang},
-  journal={ICCV},
+  journal={ICCVW},
   year={2023}
 }
 ```
