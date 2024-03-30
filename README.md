@@ -19,7 +19,7 @@ https://arxiv.org/pdf/??.pdf
 @article{bi2023misar,
   title={MISAR: A Multimodal Instructional System with Augmented Reality},
   author={Bi, Jing and Nguyen, Nguyen and Vosoughi, Ali and Xu, Chenliang},
-  journal={ICCVW},
+  journal={Proceedings of the IEEE International Conference on Computer Vision (ICCV) Workshop on AV4D: Visual Learning of Sounds in Spaces},
   year={2023}
 }
 ```
