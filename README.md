@@ -14,7 +14,7 @@ MISAR is our attempt to bridge this gap. We introduce an avant-garde methodology
 
 
 ## Citation
-https://arxiv.org/pdf/??.pdf
+[https://av4d.org/papers/iccv23/p12.pdf](https://av4d.org/papers/iccv23/p12.pdf)
 ```
 @article{bi2023misar,
   title={MISAR: A Multimodal Instructional System with Augmented Reality},
