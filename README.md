@@ -25,7 +25,7 @@ MISAR is our attempt to bridge this gap. We introduce an avant-garde methodology
 ```
 
 ## 📜 License
-This project is licensed under the The MIT License (MIT).
+This project is licensed under the MIT License (MIT).
 
 ## 🙌 Acknowledgments
 * Approved for public release; distribution is unlimited. This work has been supported by the Defense Advance Research Projects Agency (DARPA) under Contract HR00112220003. The content of the information does not necessarily reflect the position of the Government, and no official endorsement should be inferred.
